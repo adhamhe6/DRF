@@ -57,7 +57,7 @@ A web accessible CRUD API built with Django Rest Framework (DRF) for creating, v
 
 ## Usage
 
-- Access the Django API at: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+- Access the Django API at: [http://127.0.0.1:8000/api/posts](http://127.0.0.1:8000/api/posts/)
 - Access the React app at: [http://localhost:3000/](http://localhost:3000/)
 
 ## Testing
